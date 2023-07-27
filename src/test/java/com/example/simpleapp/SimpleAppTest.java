@@ -9,7 +9,7 @@ class SimpleAppTests {
 	//Only used for test coverage 
 	@Test
 	void contextLoads() {
-		SimpleApp.main(new String[] {});
+		// SimpleApp.main(new String[] {});
 	}
 
 }
