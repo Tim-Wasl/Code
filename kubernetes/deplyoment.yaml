@@ -19,9 +19,9 @@ spec:
         app: ciops
     spec:
       containers:
-      - image: timcicd/gitops:19
+      - image: timcicd/gitops:28
         ports:
-            - containerPort: 9991
+            - containerPort: 9990
         name: ciops
         resources: {}
 status: {}
